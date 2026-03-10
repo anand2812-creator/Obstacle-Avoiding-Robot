@@ -1,2 +1,11 @@
-# Obstacle-Avoiding-Robot
-Developed a basic robot prototype using ultrasonic sensors capable of detecting obstacles and changing direction automatically. Prepared and presented a detailed PowerPoint explaining the circuit design, working principle, and applications.
+# Obstacle Avoiding Robot
+
+This project is an electronics robot that detects obstacles using an ultrasonic sensor and avoids them automatically.
+
+Technologies Used:
+- Arduino
+- Ultrasonic Sensor
+- Motor Driver
+
+Author:
+Sivaraju Anand
